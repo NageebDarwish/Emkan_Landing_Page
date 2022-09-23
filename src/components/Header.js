@@ -36,7 +36,7 @@ export default function Header() {
               ></i>
             </div>
           </div>
-          <a href="https://wa.me/message/GC6W4EGX6RLAN1" className="contact-us-btn">
+          <a href="https://api.whatsapp.com/send?phone=966580644841&text=" className="contact-us-btn">
                 <li>اتصل بنا</li>
           </a>
         </div>
