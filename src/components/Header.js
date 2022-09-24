@@ -66,7 +66,7 @@ export default function Header() {
               <li
                 className={`nav-links-new ${isOpen ? "hidemenu" : "showmenu"}`}
               >
-                <a href="https://wa.me/message/GC6W4EGX6RLAN1">اتصل بنا</a>
+                <a href="https://api.whatsapp.com/send?phone=966580644841&text=">اتصل بنا</a>
               </li>
             </ol>
          
